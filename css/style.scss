@@ -104,7 +104,9 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     li {
-      padding: 0 14px;
+      //padding: 0 14px;
+      flex-grow: 1;
+      text-align: center;
       a {
         color: white;
       }
