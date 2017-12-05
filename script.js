@@ -18,7 +18,7 @@ var news = [
                 imageName: "img6.JPG",
                 author: "Petya",
                 date: "16.03.2014",
-                text: "Юроблох",
+                text: "Lorem",
                 like: 6
             },
             {
@@ -26,7 +26,7 @@ var news = [
                 imageName: "img8.JPG",
                 author: "Vova",
                 date: "10.07.2014",
-                text: "Юрозавр",
+                text: "Lorem! Lorem",
                 like: 7
             },
             {
@@ -34,7 +34,7 @@ var news = [
                 imageName: "img6.JPG",
                 author: "Vanya",
                 date: "5.01.2015",
-                text: "Ючік - піздюк!!!",
+                text: "Lorem/Lorem/Lorem!!!",
                 like: 5
             }
         ]
@@ -53,7 +53,7 @@ var news = [
                 imageName: "img7.JPG",
                 author: "Petya",
                 date: "16.03.2017",
-                text: "Юроблох",
+                text: "Lorem",
                 like: 8
             }
         ]
@@ -72,7 +72,7 @@ var news = [
                 imageName: "img7.JPG",
                 author: "Kolya",
                 date: "28.02.2011",
-                text: "Юроблох",
+                text: "Lorem",
                 like: 3
             }
         ]
